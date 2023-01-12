@@ -6,3 +6,6 @@ def counts(x):
     x //= 10
     count += 1
   return count
+spce()
+x = 144
+print(counts(x))
