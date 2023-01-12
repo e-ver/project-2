@@ -7,5 +7,5 @@ def counts(x):
     count += 1
   return count
 spce()
-x = 144
+x = 233
 print(counts(x))
