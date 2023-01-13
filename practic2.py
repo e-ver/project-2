@@ -9,5 +9,11 @@ def counts(x):
 spce()
 x = 233
 print(counts(x))
+<<<<<<< HEAD
 print('XOXOXO', x)
 print('__________________________________________')
+=======
+print('XOXOXO',x)
+print('__________________________________________')
+
+>>>>>>> 8588dbada495f778a2fe7faedc9f57a821f7c368
