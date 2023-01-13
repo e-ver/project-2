@@ -9,6 +9,5 @@ def counts(x):
 spce()
 x = 233
 print(counts(x))
-print('XOXO_____XO')
-spce()
-print(spce()/3}
+print('XOXOXO')
+
